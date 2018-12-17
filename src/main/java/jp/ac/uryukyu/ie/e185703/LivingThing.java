@@ -61,7 +61,10 @@ public class LivingThing {
     public void setDead(boolean boo){
         this.dead = boo;
     }
-
+    /**
+     * キャラクターの名前を定義するためのメソッド。
+     * @return name キャラクターの名前
+     */
     public  String getName(){
         return name;
     }
