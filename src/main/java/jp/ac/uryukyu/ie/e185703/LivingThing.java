@@ -62,7 +62,7 @@ public class LivingThing {
         this.dead = boo;
     }
     /**
-     * キャラクターの名前を定義するためのメソッド。
+     * キャラクターの名前を取得するためのメソッド。
      * @return name キャラクターの名前
      */
     public  String getName(){
